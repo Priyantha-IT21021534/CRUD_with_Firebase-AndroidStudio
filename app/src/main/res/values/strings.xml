@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Labs - Firebase</string>
+    <string name="edt_ID">Enter your ID</string>
+    <string name="edt_name">Enter your Name</string>
+    <string name="edt_addrs">Enter your Address</string>
+    <string name="edt_telNo">Enter your Contact Number</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_show">SHOW</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_clear">CLEAR</string>
+</resources>
